@@ -1,0 +1,7 @@
+C:\Users\SELESTIAN\source\repos\Technique\Technique\bin\Debug\Technique.exe.config
+C:\Users\SELESTIAN\source\repos\Technique\Technique\bin\Debug\Technique.exe
+C:\Users\SELESTIAN\source\repos\Technique\Technique\bin\Debug\Technique.pdb
+C:\Users\SELESTIAN\source\repos\Technique\Technique\obj\Debug\Technique.csprojAssemblyReference.cache
+C:\Users\SELESTIAN\source\repos\Technique\Technique\obj\Debug\Technique.csproj.CoreCompileInputs.cache
+C:\Users\SELESTIAN\source\repos\Technique\Technique\obj\Debug\Technique.exe
+C:\Users\SELESTIAN\source\repos\Technique\Technique\obj\Debug\Technique.pdb
